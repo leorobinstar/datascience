@@ -18,17 +18,17 @@ week 1:
    
 (4) The literature review clearly present a summary of findings (e.g., variables considered, patterns of findings, etc). 
     Variables consideres:
-    : CRATER_ID :- crater	ID	for	internal	sue,	based	upon	the	region	of	the	planet	
-                   (1/16ths),	the	“pass”	under	which	the	crate	was	identified,	ad	the	order	in	which	
-                   it	was	identified.
+    : CRATER_ID :- crater ID for internal sue, based upon the region of the planet	
+                   (1/16ths), the “pass” under which the crate	was identified, ad the order in which	
+                   it was identified.
                    
-    : DEPTH_RIMFLOOR_TOPOG :- average	elevation	of	each	of	the	manually	
-                              determined	N	points	along	(or	inside)	the	crater	rim(units	are	km).
+    : DEPTH_RIMFLOOR_TOPOG :- average elevation of each of the manually	
+                              determined N points along (or	inside) the crater rim(units are km).
                               
-    : DIAM_CIRCLE_IMAGE :- diameter	from	a	non-linear	least	squares	circle	fit	to	the	
-                           vertices	selected	to	manually	identify	the	crater	rim	(units	are	km).
+    : DIAM_CIRCLE_IMAGE :- diameter from a non-linear least squares	 circle fit	to	the	
+                           vertices	selected to	manually identify the crater rim (units	are	km).
                            
-    :	MORPHOLOGY_EJECTA :- ejecta	morphology	classified.	Examples	below.
-                           If	there	are	multiple	values,	separated	by	a	“/”,	then	the	order	is	the	
-                           inner-most	ejecta	through	the	outer-most,	or	the top-most	through	
-                            the	bottom-most.
+    :	MORPHOLOGY_EJECTA :- ejecta	morphology	classified.	Examples below.
+                           If there are multiple values, separated	by a “/”, then the order is the	
+                           inner-most ejecta through the outer-most, or	the top-most through	
+                           the bottom-most.
