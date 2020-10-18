@@ -1,3 +1,34 @@
-week 1: choosing a dataset
+week 1: 
+(1) Choosing a dataset :
+    After reviwing the provided data sets, i chose MARS CRATERS for my analysis as i am intrested in mars the red rusty planet.  
 
-(1) After reviwing provided data sets, i chose MARS CRATERS for my analysis as i am intrested in mars the red rusty planet.  
+(2) Research question and Hypothesis:
+    My research question is the relation between the Diameter circle and Depth Rim floor.
+    
+    Hypothesis:
+    : Depending or by studying the diameter and the depth rim floor, we can tell the actual size of Astroid before it hit the surface.
+    : Sizes of astroids, how much impact they react depending on individual size.
+    : Is there any possiblity to destroy the astroid before it hit the surface, by studying its sizes and strength.
+
+(3) The literature review include clear information about search terms used AND 
+    The literature review clearly identify references used.
+    : https://ntrs.nasa.gov/citations/20030066704
+    : https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1945-5100.2003.tb00001.x
+    : https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011JE003967
+   
+(4) The literature review clearly present a summary of findings (e.g., variables considered, patterns of findings, etc). 
+    Variables consideres:
+    : CRATER_ID :- crater	ID	for	internal	sue,	based	upon	the	region	of	the	planet	
+                   (1/16ths),	the	“pass”	under	which	the	crate	was	identified,	ad	the	order	in	which	
+                   it	was	identified.
+                   
+    : DEPTH_RIMFLOOR_TOPOG :- average	elevation	of	each	of	the	manually	
+                              determined	N	points	along	(or	inside)	the	crater	rim(units	are	km).
+                              
+    : DIAM_CIRCLE_IMAGE :- diameter	from	a	non-linear	least	squares	circle	fit	to	the	
+                           vertices	selected	to	manually	identify	the	crater	rim	(units	are	km).
+                           
+    :	MORPHOLOGY_EJECTA :- ejecta	morphology	classified.	Examples	below.
+                           If	there	are	multiple	values,	separated	by	a	“/”,	then	the	order	is	the	
+                           inner-most	ejecta	through	the	outer-most,	or	the top-most	through	
+                            the	bottom-most.
